@@ -1,0 +1,25 @@
+{
+  "name": "booking_go",
+  "version": "1.0.0",
+  "description": "Command line application and simple REST API. Questions - [you can find them here](https://github.com/rideways/technical_test)",
+  "main": "api.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "node-fetch": "^2.6.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "author": "Clement Godard",
+  "license": "ISC"
+}
